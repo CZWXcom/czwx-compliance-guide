@@ -9,6 +9,8 @@
 
 This repository publishes, in general terms, the compliance process CZWX follows before a product is listed or sold. It is written for buyers, retail partners and anyone who wants to know how we check the suppliers and factories behind the products we distribute.
 
+For a practical example, see [CZWX's buyer checklist for licensed character merchandise](https://czwx.com/en/news/character-product-document-checklist-en/), which covers products, territories, sales channels and authorised parties.
+
 ## Contents
 
 - [COMPLIANCE-GUIDE.md](COMPLIANCE-GUIDE.md) — How we verify suppliers and factories, what authorization documentation we collect, and the rules we apply before listing a product.
